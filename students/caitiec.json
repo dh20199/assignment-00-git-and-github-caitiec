@@ -1,0 +1,14 @@
+{
+  "firstName": "Caitlyn",
+  "lastName": "Collins",
+  "nickName": "Caitie",
+  "privateName": false,
+  "picture": "https://github.com/dh20199/assignment-00-git-and-github-caitiec/blob/master/images/caitiec.jpg?raw=true",
+  "privatePicture": false,
+  "email": "caitie.collins@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "caitiec",
+  "privateGithub": false,
+  "superpower" : "surviving on only coffee and free food on campus",
+  "academicinterests": "random and very niche history facts"
+}
